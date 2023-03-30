@@ -1,0 +1,15 @@
+C:\Users\HAN\Desktop\코딩\c_01\3_27\3_27\obj\Debug\net7.0\3_27.csproj.AssemblyReference.cache
+C:\Users\HAN\Desktop\코딩\c_01\3_27\3_27\obj\Debug\net7.0\3_27.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HAN\Desktop\코딩\c_01\3_27\3_27\obj\Debug\net7.0\3_27.AssemblyInfoInputs.cache
+C:\Users\HAN\Desktop\코딩\c_01\3_27\3_27\obj\Debug\net7.0\3_27.AssemblyInfo.cs
+C:\Users\HAN\Desktop\코딩\c_01\3_27\3_27\obj\Debug\net7.0\3_27.csproj.CoreCompileInputs.cache
+C:\Users\HAN\Desktop\코딩\c_01\3_27\3_27\bin\Debug\net7.0\3_27.exe
+C:\Users\HAN\Desktop\코딩\c_01\3_27\3_27\bin\Debug\net7.0\3_27.deps.json
+C:\Users\HAN\Desktop\코딩\c_01\3_27\3_27\bin\Debug\net7.0\3_27.runtimeconfig.json
+C:\Users\HAN\Desktop\코딩\c_01\3_27\3_27\bin\Debug\net7.0\3_27.dll
+C:\Users\HAN\Desktop\코딩\c_01\3_27\3_27\bin\Debug\net7.0\3_27.pdb
+C:\Users\HAN\Desktop\코딩\c_01\3_27\3_27\obj\Debug\net7.0\3_27.dll
+C:\Users\HAN\Desktop\코딩\c_01\3_27\3_27\obj\Debug\net7.0\refint\3_27.dll
+C:\Users\HAN\Desktop\코딩\c_01\3_27\3_27\obj\Debug\net7.0\3_27.pdb
+C:\Users\HAN\Desktop\코딩\c_01\3_27\3_27\obj\Debug\net7.0\3_27.genruntimeconfig.cache
+C:\Users\HAN\Desktop\코딩\c_01\3_27\3_27\obj\Debug\net7.0\ref\3_27.dll
