@@ -1,0 +1,11 @@
+C:\Users\HAN\Desktop\코딩\c_01\05_12\05_12\obj\Debug\05_12.csproj.AssemblyReference.cache
+C:\Users\HAN\Desktop\코딩\c_01\05_12\05_12\obj\Debug\05_12.csproj.SuggestedBindingRedirects.cache
+C:\Users\HAN\Desktop\코딩\c_01\05_12\05_12\obj\Debug\_05_12.Form1.resources
+C:\Users\HAN\Desktop\코딩\c_01\05_12\05_12\obj\Debug\_05_12.Properties.Resources.resources
+C:\Users\HAN\Desktop\코딩\c_01\05_12\05_12\obj\Debug\05_12.csproj.GenerateResource.cache
+C:\Users\HAN\Desktop\코딩\c_01\05_12\05_12\obj\Debug\05_12.csproj.CoreCompileInputs.cache
+C:\Users\HAN\Desktop\코딩\c_01\05_12\05_12\bin\Debug\05_12.exe.config
+C:\Users\HAN\Desktop\코딩\c_01\05_12\05_12\bin\Debug\05_12.exe
+C:\Users\HAN\Desktop\코딩\c_01\05_12\05_12\bin\Debug\05_12.pdb
+C:\Users\HAN\Desktop\코딩\c_01\05_12\05_12\obj\Debug\05_12.exe
+C:\Users\HAN\Desktop\코딩\c_01\05_12\05_12\obj\Debug\05_12.pdb
